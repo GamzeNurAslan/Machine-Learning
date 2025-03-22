@@ -1,4 +1,5 @@
 Makine Öğrenimi nedir?
+---------------------------------------------------------------------------------------------------------
 
 Makine öğrenimi (ML), çeviri uygulamalarından otonom araçlara kadar kullandığımız en önemli teknolojilerden bazılarını destekler. Bu kursta, makine öğreniminin temel kavramları açıklanmaktadır.
 
