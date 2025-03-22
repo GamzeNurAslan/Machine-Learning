@@ -18,5 +18,14 @@ ML Sistemi Türleri
 
 ![image](https://github.com/user-attachments/assets/fe183fab-b2fe-4dc6-86a3-d495746d5467)
 
+KNN (K-Nearest Neighbors)?
+-------------------------------------------------------------------------------------------------------------
+Bir denetimli öğrenme algoritmasıdır. Yeni bir veri noktası için en yakın "k" komşusunun sınıfını veya değerini kullanarak tahmin yapar. Sınıflandırma ve regresyon problemleri için uygundur. KNN, eğitim verisini kullanmaz, her tahminde komşuları arayarak karar verir.
+
+Sınıflandırma: En yakın k komşusunun sınıflarına bakarak çoğunluğa göre tahmin yapar.
+
+Regresyon: En yakın k komşusunun değerlerinin ortalamasını alarak tahmin yapar.
+
+KNN, basit ve esnek bir algoritmadır, ancak büyük veri setlerinde yavaş olabilir.
 
 
