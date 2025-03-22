@@ -1,0 +1,45 @@
+Lojistik Regresyon İçin Veri Seti Oluşturuluyor...
+Lojistik Regresyon Veri Seti:
+   Age  Income  Purchased
+0   22   25000          0
+1   25   32000          0
+2   47   47000          1
+3   52   52000          1
+4   46   46000          1
+
+Lojistik Regresyon İçin Veri Eğitim ve Test Setine Ayrılıyor...
+Eğitim Seti Boyutu: (8, 2)
+Test Seti Boyutu: (2,)
+
+Lojistik Regresyon Modeli Eğitiliyor...
+
+Lojistik Regresyon Modeli Eğitildi!
+Katsayılar (Coefficients):
+[[0.00049909 0.0018294 ]]
+Intercep (b0): [-66.95363428]
+
+Lojistik Regresyon Modeli Test Verisi ile Tahmin Yapılıyor...
+
+ Gerçek vs Tahmin Edilen Değerler:
+Gerçek: 1 -> Tahmin: 1
+Gerçek: 0 -> Tahmin: 0
+
+Lojistik Regresyon Modeli Performans Sonuçları:
+
+ Lojistik Regresyon Modeli Performans Sonuçları:
+Doğruluk Skoru: 1.0000
+
+KNN Modeli Eğitiliyor...
+
+ KNN Modeli Eğitildi.
+
+KNN Modeli Test Verisi İle Tahmin Yapılıyor...
+
+ Gerçek vs Tahmin Edilen Değerler:
+Gerçek: 1 -> Tahmin: 1
+Gerçek: 0 -> Tahmin: 1
+
+KNN Modeli Performansı Ölçülüyor...
+
+KNN Modeli Performans Sonuçları:
+Doğruluk Skoru: 0.5000
